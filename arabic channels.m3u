@@ -541,203 +541,101 @@ http://iptv15.zapto.org:8000/live/free4u/2015/1412.ts
 http://iptv15.zapto.org:8000/live/free4u/2015/1443.ts
 #EXTINF:-1,by_Hichrawi_NR C more Fotboll
 http://iptv15.zapto.org:8000/live/free4u/2015/1444.ts
-#EXTINF:0,Bein Sports1
-http://proffiptv.mine.nu:15003/live/tvgalaxynew1/0VbE5RQrtX/518.m3u8
-#EXTINF:0,Bein Sports2
-http://proffiptv.mine.nu:15003/live/tvgalaxynew1/0VbE5RQrtX/519.m3u8
-#EXTINF:0,Bein Sports3
-http://proffiptv.mine.nu:15003/live/tvgalaxynew1/0VbE5RQrtX/520.m3u8
-#EXTINF:0,Bein Sports4
-http://proffiptv.mine.nu:15003/live/tvgalaxynew1/0VbE5RQrtX/521.m3u8
-#EXTINF:0,Bein Sports5
-http://proffiptv.mine.nu:15003/live/tvgalaxynew1/0VbE5RQrtX/522.m3u8
-#EXTINF:0,Bein Sports6
-http://proffiptv.mine.nu:15003/live/tvgalaxynew1/0VbE5RQrtX/523.m3u8
-#EXTINF:0,Bein Sports7
-http://proffiptv.mine.nu:15003/live/tvgalaxynew1/0VbE5RQrtX/525.m3u8
-#EXTINF:0,Bein Sports8
-http://proffiptv.mine.nu:15003/live/tvgalaxynew1/0VbE5RQrtX/524.m3u8
-#EXTINF:0,Bein Sports9
-http://proffiptv.mine.nu:15003/live/tvgalaxynew1/0VbE5RQrtX/526.m3u8
-#EXTINF:0,Bein Sports10
-http://proffiptv.mine.nu:15003/live/tvgalaxynew1/0VbE5RQrtX/527.m3u8
-#EXTINF:0,Sky Sport 24 HD
-http://proffiptv.mine.nu:15003/live/tvgalaxynew1/0VbE5RQrtX/29.m3u8
-#EXTINF:0,Sky Sport 1 HD
-http://proffiptv.mine.nu:15003/live/tvgalaxynew1/0VbE5RQrtX/30.m3u8
-#EXTINF:0,Sky Sport 2 HD
-http://proffiptv.mine.nu:15003/live/tvgalaxynew1/0VbE5RQrtX/31.m3u8
-#EXTINF:0,Sky Sport 3 HD
-http://proffiptv.mine.nu:15003/live/tvgalaxynew1/0VbE5RQrtX/32.m3u8
-#EXTINF:0,Sky Sport Plus HD
-http://proffiptv.mine.nu:15003/live/tvgalaxynew1/0VbE5RQrtX/33.m3u8
-#EXTINF:0,FOX Sport HD
-http://proffiptv.mine.nu:15003/live/tvgalaxynew1/0VbE5RQrtX/35.m3u8
-#EXTINF:0,Sky Sport F1 HD
-http://proffiptv.mine.nu:15003/live/tvgalaxynew1/0VbE5RQrtX/36.m3u8
-#EXTINF:0,Sky Sport MotoGP HD
-http://proffiptv.mine.nu:15003/live/tvgalaxynew1/0VbE5RQrtX/37.m3u8
-#EXTINF:0,EuroSport HD
-http://proffiptv.mine.nu:15003/live/tvgalaxynew1/0VbE5RQrtX/38.m3u8
-#EXTINF:0,EuroSport 2 HD
-http://proffiptv.mine.nu:15003/live/tvgalaxynew1/0VbE5RQrtX/39.m3u8
-#EXTINF:0,Premium Cinema +24
-http://proffiptv.mine.nu:15003/live/tvgalaxynew1/0VbE5RQrtX/372.m3u8
-#EXTINF:0,Premium Cinema 2 HD
-http://proffiptv.mine.nu:15003/live/tvgalaxynew1/0VbE5RQrtX/465.m3u8
-#EXTINF:0,Premium Cinema 2 +24
-http://proffiptv.mine.nu:15003/live/tvgalaxynew1/0VbE5RQrtX/466.m3u8
-#EXTINF:0,Premium Emotion
-http://proffiptv.mine.nu:15003/live/tvgalaxynew1/0VbE5RQrtX/90.m3u8
-#EXTINF:0,Premium Energy
-http://proffiptv.mine.nu:15003/live/tvgalaxynew1/0VbE5RQrtX/89.m3u8
-#EXTINF:0,Premium Comedy
-http://proffiptv.mine.nu:15003/live/tvgalaxynew1/0VbE5RQrtX/111.m3u8
-#EXTINF:0,Premium Joy
-http://proffiptv.mine.nu:15003/live/tvgalaxynew1/0VbE5RQrtX/113.m3u8
-#EXTINF:0,Premium Mya
-http://proffiptv.mine.nu:15003/live/tvgalaxynew1/0VbE5RQrtX/114.m3u8
-#EXTINF:0,Premium Action HD
-http://proffiptv.mine.nu:15003/live/tvgalaxynew1/0VbE5RQrtX/469.m3u8
-#EXTINF:0,Premium Action +24
-http://proffiptv.mine.nu:15003/live/tvgalaxynew1/0VbE5RQrtX/115.m3u8
-#EXTINF:0,PREMIUM CRIME +24
-http://proffiptv.mine.nu:15003/live/tvgalaxynew1/0VbE5RQrtX/116.m3u8
-
-
-
-
-
-
-#EXTINF:0, SKY SPORTS 1 HD
-rtmp://109.200.1.82:1935/tes/skysp1.stream?e607b5b743e1842ee50e1556bbf3ae42
-#EXTINF:0, SKY SPORTS 2 HD
-rtmp://109.200.1.82:1935/tes/skysp2.stream?e607b5b743e1842ee50e1556bbf3ae42
-#EXTINF:0, SKY SPORTS 3 HD
-rtmp://109.200.1.82:1935/tes/skysp3.stream?e607b5b743e1842ee50e1556bbf3ae42
-#EXTINF:0, SKY SPORTS 4 HD
-rtmp://109.200.1.82:1935/tes/skysp4.stream?e607b5b743e1842ee50e1556bbf3ae42
-#EXTINF:0, SKY SPORTS 5 HD
-rtmp://109.200.1.82:1935/tes/skysp1.stream?e607b5b743e1842ee50e1556bbf3ae42
-#EXTINF:0, SKY SPORTS F1 HD
-rtmp://109.200.1.82:1935/tes/skyspf1.stream?e607b5b743e1842ee50e1556bbf3ae42
-
-
-#EXTINF:0, Cinema 1 Turk
-mmsh://50.7.207.114:80/sinema1?MSWMExt=.asf
-#EXTINF:0, Cinema 2
-mmsh://50.7.207.114:80/sinema2?MSWMExt=.asf
-#EXTINF:0, Cinema 3
-mmsh://50.7.207.114:80/sinema3?MSWMExt=.asf
-#EXTINF:0, Cinema 4
-mmsh://50.7.207.114:80/sinema4?MSWMExt=.asf
-#EXTINF:0, Cinema 5
-mmsh://50.7.207.114:80/sinema5?MSWMExt=.asf
-#EXTINF:0, Cinema 6
-mmsh://50.7.207.114:80/sinema6?MSWMExt=.asf
-#EXTINF:-1, DIGI SPORT 1
-rtmp://195.154.162.159:80/liverepeater playpath=128746 pageUrl=http://deltatv.pw/ token=Fo5_n0w?U.rA6l3-70w47ch
-#EXTINF:-1, DIGI SPORT 2
-rtmp://195.154.162.159:80/liverepeater playpath=128747 pageUrl=http://deltatv.pw/ token=Fo5_n0w?U.rA6l3-70w47ch
-#EXTINF:-1, DIGI SPORT 3
-rtmp://195.154.162.159:80/liverepeater playpath=128748 pageUrl=http://deltatv.pw/ token=Fo5_n0w?U.rA6l3-70w47ch
-#EXTINF:0, ITV
-http://81.92.105.134:5555/pl.m3u8?channel=89
-#EXTINF:0, ITV 2
-http://81.92.105.134:5555/pl.m3u8?channel=90
-#EXTINF:0, ITV 3
-http://81.92.105.134:5555/pl.m3u8?channel=91
-#EXTINF:0, ITV 4
-http://81.92.105.134:5555/pl.m3u8?channel=92
-
-#EXTINF:-0,MBC 4
-http://63.237.48.23/ios/MBC_4/MBC_4.m3u8
-#EXTINF:-0,MBC Max
-http://63.237.48.23/ios/MBC_MAX/MBC_MAX.m3u8
-#EXTINF:-0,MBC Action
-http://63.237.48.23/ios/MBC_ACTION/MBC_ACTION.m3u8.
-#EXTINF:-0,dubaione
-http://dmi.mangomolo.com:1935/dubaione/smil:dubaione.smil/playlist.m3u8
-#EXTINF:-0,noordubaitv
-http://dmi.mangomolo.com:1935/noordubaitv/smil:noordubaitv.smil/playlist.m3u8
-#EXTINF:-0,Sama Dubai
-http://dmi.mangomolo.com:1935/samadubai/smil:samadubai.smil/playlist.m3u8
-#EXTINF:-0,Dubai Racing
-http://dmi.mangomolo.com:1935/dubairacing/smil:dubairacing.smil/playlist.m3u8
-#EXTINF:-0,DW Arabia
-http://www.metafilegenerator.de/DWelle/tv-arabia/ios/master.m3u8
-#EXTINF:-0,Zee Aflem
-http://arabic.dynns.com:1935/arabic/ZeeAflem/chunklist_w1945428695.m3u8
-#EXTINF:-0,Aghani TV
-http://66.135.32.50/aghanitv/aghanitv/chunklist_w775380517.m3u8
-#EXTINF:-0,Al yawm
-http://live.paltoday.tv:1935/paltv/live/gmswf.m3u8
-#EXTINF:-0,Royal-Secret
-http://94.127.209.149:8080/secretsx/playlist.m3u8
-#EXTINF:-0,Royal-Edhak
-http://94.127.209.149:8080/edhakx/playlist.m3u8
-#EXTINF:-0,DW Arabia
-http://www.metafilegenerator.de/DWelle/tv-arabia/ios/master.m3u8
-#EXTINF:-0,Zee Aflem
-http://arabic.dynns.com:1935/arabic/ZeeAflem/chunklist_w1945428695.m3u8
-#EXTINF:-0,Aghani TV
-http://66.135.32.50/aghanitv/aghanitv/chunklist_w775380517.m3u8
-#EXTINF:-0,Al yawm
-http://live.paltoday.tv:1935/paltv/live/gmswf.m3u8
-#EXTINF:-0,Aljazeera Doc
-http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
-#EXTINF:-0,Aljazeera
-http://aljazeera-ara-apple-live.adaptive.level3.net/apple/aljazeera/arabic/160.m3u8
-#EXTINF:-0,AL Arabiya TV
-http://alarabiya-geo-live.hls.adaptive.level3.net/hls-live/alarabiya-channel01/_definst_/live/stream1.m3u8
-#EXTINF:-0,AL Hadath
-http://alhadath-geo-live.hls.adaptive.level3.net/hls-live/alhadath-channel01/_definst_/live/stream1.m3u8
-
-
-
-#EXTINF:0, More4
-http://81.92.105.134:5555/pl.m3u8?channel=94
-FRANCE TV,http://88.141.4.217:9003/3
-FRANCE TV2,http://88.141.4.217:9005/5
-FRANCE TV3,http://88.141.4.217:9006/6
-FRANCE TV4,http://88.141.4.217:9007/7
-FRANCE TV5,http://88.141.4.217:9008/8
-FRANCE TV6,http://88.141.4.217:9009/9
-13 RUE,http://88.141.4.217:9010/10
-SYFY HD,http://88.141.4.217:9011/11
-CANAL+SPORT,http://88.141.4.217:9004/4
-#EXTINF:-1, TF1
-http://streaming-hub.com/tv/i/tf1_1@97468/index_1300_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1, France 2
-http://streaming-hub.com/tv/i/france2_1@97347/index_1300_av-b.m3u8?sd=10&rebase=on
-#EXTINF:0, France2 (stream 2)
-http://81.92.105.134:5555/pl.m3u8?channel=401
-#EXTINF:-1, France 3
-http://streaming-hub.com/tv/i/france3_1@97329/index_1300_av-b.m3u8?sd=10&rebase=on
-#EXTINF:0, France3 (stream 2)
-http://81.92.105.134:5555/pl.m3u8?channel=402
-#EXTINF:0, France4
-http://81.92.105.134:5555/pl.m3u8?channel=403 #EXTINF:-1, France 5
-http://streaming-hub.com/tv/i/france5_1@97351/index_1300_av-b.m3u8?sd=10&rebase=on
-#EXTINF:0, France5 (stream 2)
-http://81.92.105.134:5555/pl.m3u8?channel=404
-#EXTINF:-1, M6 HD
-http://streaming-hub.com/tv/i/m6_1@97467/index_1300_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1, D8
-http://stream.streaming-hub.com:8180/live/hls/d8-clair-v3-sd-and/and-sd-clair/index.m3u8
-#EXTINF:-1, D17
-http://stream.streaming-hub.com:8180/live/hls/d17-clair-v3-sd-and/and-sd-clair/index.m3u8
-#EXTINF:-1 ,RTL9
-http://streaming-hub.com/tv/i/rtl9_1@97354/index_1300_av-b.m3u8?sd=10&rebase=on
-EXTINF:0, France
-http://81.92.105.134:5555/pl.m3u8?channel=411
-#EXTINF:0, D17
-http://81.92.105.134:5555/pl.m3u8?channel=414
-#EXTINF:0, NT1
-http://81.92.105.134:5555/pl.m3u8?channel=416
-#EXTINF:0, TMC
-http://81.92.105.134:5555/pl.m3u8?channel=412
-#EXTINF:-1, Animaux HD
-http://87.248.160.8/edge/smil:animaux/playlist.m3u8
-#EXTINF:-1, LA CHAINE NORMANDIE
-rtmp://live.lachainenormande.fr:80/live/lcn/livestream
+#EXTINF:0,AR: beIN SPORTS 1 HD
+http://iptv4.is-certified.com:8000/live/dante/dante/849.ts
+#EXTINF:0,AR: beIN SPORTS 2 HD
+http://iptv4.is-certified.com:8000/live/dante/dante/873.ts
+#EXTINF:0,AR: beIN SPORTS 3 HD
+http://iptv4.is-certified.com:8000/live/dante/dante/943.ts
+#EXTINF:0,AR: beIN SPORTS 4 HD
+http://iptv4.is-certified.com:8000/live/dante/dante/850.ts
+#EXTINF:0,AR: beIN SPORTS 5 HD
+http://iptv4.is-certified.com:8000/live/dante/dante/851.ts
+#EXTINF:0,AR: beIN SPORTS 6 HD
+http://iptv4.is-certified.com:8000/live/dante/dante/1045.ts
+#EXTINF:0,AR: beIN SPORTS 7 HD
+http://iptv4.is-certified.com:8000/live/dante/dante/852.ts
+#EXTINF:0,AR: beIN SPORTS 8 HD
+http://iptv4.is-certified.com:8000/live/dante/dante/1046.ts
+#EXTINF:0,AR: beIN SPORTS 9 HD
+http://iptv4.is-certified.com:8000/live/dante/dante/853.ts
+#EXTINF:0,AR: beIN SPORTS 10 HD
+http://iptv4.is-certified.com:8000/live/dante/dante/854.ts 
+#EXTINF:-1,by__AR_beinsport_1hd
+http://iptv15.zapto.org:8000/live/free4u/2015/1429.ts
+#EXTINF:-1,by__AR_beinsport_3hd
+http://iptv15.zapto.org:8000/live/free4u/2015/1431.ts
+#EXTINF:-1,byAR_beinsport_5hd
+http://iptv15.zapto.org:8000/live/free4u/2015/1433.ts
+#EXTINF:-1,i_AR_beinsport_7hd
+http://iptv15.zapto.org:8000/live/free4u/2015/1435.ts
+#EXTINF:-1,_AR_beinsport_8hd
+http://iptv15.zapto.org:8000/live/free4u/2015/1436.ts
+#EXTINF:-1,AR_beinsport_9hd
+http://iptv15.zapto.org:8000/live/free4u/2015/1437.ts
+#EXTINF:-1,Bein:Sports:HD3
+http://iptv15.zapto.org:8000/live/free4u/2015/56.ts
+#EXTINF:-1,BE-BeinSport-8HD
+http://iptv15.zapto.org:8000/live/free4u/2015/462.ts
+#EXTINF:-1,BE-BeinSport-9HD
+http://iptv15.zapto.org:8000/live/free4u/2015/463.ts
+#EXTINF:-1,SUPER PRORT HD 1
+http://81.7.13.162/hls/ss1/index.m3u8  
+#EXTINF:-1,SUPER PRORT HD2
+http://81.7.13.162/hls/ss2/index.m3u8
+ #EXTINF:-1,SUPER PRORT HD3
+http://81.7.13.162/hls/ss3/index.m3u8
+ #EXTINF:-1,SUPER PRORT HD4
+http://81.7.13.162/hls/ss4/index.m3u8
+#EXTINF:0,SkySport 1 HD
+http://bit.ly/1EEPEb0
+#EXTINF:0,SkySport 2 HD
+http://bit.ly/1E6TgHV
+#EXTINF:0,SkySport 3 HD
+http://bit.ly/1UUWPVS
+#EXTINF:0,SkySport 4 HD
+http://bit.ly/1Po8FnG
+#EXTINF:0,SkySport 5 HD
+http://bit.ly/1LmGasF
+#EXTINF:0,SkySport F1 HD
+http://bit.ly/1HXKdnD
+#EXTINF:0,BT Sport 1
+http://bit.ly/1HXKg2P
+#EXTINF:0,BT Sport 2
+http://bit.ly/1EEPUXx
+#EXTINF:-1,_UK_Sky Sport3
+http://iptv15.zapto.org:8000/live/free4u/2015/353.ts
+#EXTINF:-1,_UK_Sky Sport2
+http://iptv15.zapto.org:8000/live/free4u/2015/352.ts
+#EXTINF:-1,UK_Sky Sport F1
+http://iptv15.zapto.org:8000/live/free4u/2015/350.ts
+#EXTINF:-1,_UK_Sky Sport1
+http://iptv15.zapto.org:8000/live/free4u/2015/351.ts
+#EXTINF:-1,_UK_Sky Sport4
+http://iptv15.zapto.org:8000/live/free4u/2015/354.ts 
+#EXTINF:-1,AR_beINSport1HD,
+http://178.33.88.129:888/udp/239.102.0.4:1234
+#EXTINF:-1,AR_beINSport2HD,
+http://178.33.88.129:888/udp/239.102.0.2:1234
+#EXTINF:-1,AR_beINSport3HD,
+http://bit.ly/1gUqMa3
+#EXTINF:-1,AR_beINSport4HD,
+http://178.33.88.129:888/udp/239.102.0.5:1234
+#EXTINF:-1,AR_beINSport5HD,
+http://178.33.88.129:888/udp/239.102.0.6:1234
+#EXTINF:-1,:AR_beINSport6HD,
+http://178.33.88.129:888/udp/239.102.0.7:1234
+#EXTINF:-1,AR_beINSport7HD,
+http://178.33.88.129:888/udp/239.102.0.8:1234
+#EXTINF:-1,AR_beINSport8HD,
+http://178.33.88.129:888/udp/239.102.0.9:1234
+#EXTINF:-1,AR_beINSport9HD,
+http://178.33.88.129:888/udp/239.102.0.10:1234
+#EXTINF:-1,AR_beINSport10HD,
+http://178.33.88.129:888/udp/239.102.0.11:1234
+#EXTINF:-1,FR_beINSport1
+http://178.33.88.129:888/udp/239.102.0.15:1234
+#EXTINF:-1,FR_beINSport2
+http://178.33.88.129:888/udp/239.102.0.16:1234
+#EXTINF:-1,FR_beINSport3
+http://178.33.88.129:888/udp/239.102.0.17:1234
